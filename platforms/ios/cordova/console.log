@@ -1,0 +1,8 @@
+2015-01-06 14:35:42.941 todo[32709:727029] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/juliet/Library/Developer/CoreSimulator/Devices/86E93A88-A3F5-45AC-8477-1028B571BFF0/data/Containers/Data/Application/F4EA1650-3C3E-48B1-802C-42C15C05635E/Library/Cookies/Cookies.binarycookies
+2015-01-06 14:35:43.494 todo[32709:727029] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-06 14:35:43.495 todo[32709:727029] Multi-tasking -> Device: YES, App: YES
+2015-01-06 14:35:43.522 todo[32709:727029] Unlimited access to network resources
+2015-01-06 14:35:44.039 todo[32709:727029] [CDVTimer][keyboard] 0.057995ms
+2015-01-06 14:35:44.039 todo[32709:727029] [CDVTimer][TotalPluginStartup] 0.569999ms
+2015-01-06 14:35:44.849 todo[32709:727029] Resetting plugins due to page load.
+2015-01-06 14:35:45.086 todo[32709:727029] Finished load of: file:///Users/juliet/Library/Developer/CoreSimulator/Devices/86E93A88-A3F5-45AC-8477-1028B571BFF0/data/Containers/Bundle/Application/94812637-FCB0-405B-A56A-EBCD0128D209/todo.app/www/index.html
